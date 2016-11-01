@@ -1,3 +1,8 @@
 File B is created
 
 Created a new branch
+
+Edited file B on repo
+
+
+Edited File B on local repo
